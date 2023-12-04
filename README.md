@@ -1,4 +1,6 @@
 # NextJs
 Just my learnings
 
-Created NExtJS App
+Created NextJS App
+
+using version NextJS 13.4
